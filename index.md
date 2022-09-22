@@ -7,6 +7,9 @@ An introduction to markdown scripting.
 ```
 [My Profile](https://github.com/Anandos 'Link')". 
 ```
-  Such as [My Profile](https://github.com/Anandos 'Link').
+> Such as [My Profile](https://github.com/Anandos 'Link').
+
+- [ ] Check boxes
+- [x] Ticked
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
